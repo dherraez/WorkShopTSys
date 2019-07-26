@@ -34,7 +34,7 @@ Default Profile=default.cfg
 [ExtraFiles]
 globals.h=
 [Modified Actions]
-vuser_init=0
+vuser_init=1
 Booking_Flight=1
 vuser_end=0
 [Recorded Actions]
