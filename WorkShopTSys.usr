@@ -34,7 +34,7 @@ Default Profile=default.cfg
 [ExtraFiles]
 globals.h=
 [Modified Actions]
-vuser_init=0
+vuser_init=1
 Booking_Flight=1
 vuser_end=0
 [Recorded Actions]
@@ -54,8 +54,8 @@ Order="WorkShop_BookingFlight_Launch_T01__*delimiter*__WorkShop_BookingFlight_Lo
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
-LastReplayedRunName=result1
-ActiveRunName=result1
+LastReplayedRunName=
+ActiveRunName=
 [Transactions]
 WorkShop_BookingFlight_Launch_T01=
 WorkShop_BookingFlight_Login_T02=
