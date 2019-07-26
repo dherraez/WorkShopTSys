@@ -19,12 +19,10 @@
     <FileEntry Name="Breakpoints.xml" Filter="2" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="2" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="2" />
-    <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name="UserTasks.xml" Filter="2" />
     <FileEntry Name="Watches.xml" Filter="2" />
     <FileEntry Name="combined_WorkShopTSys.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
-    <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="5722653244.idx" Filter="1" />
     <FileEntry Name="data.zip" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
@@ -44,7 +42,6 @@
     <FileEntry Name="WorkShopTSys.ci" Filter="1" />
     <FileEntry Name="WorkShopTSys.prm.bak" Filter="1" />
     <FileEntry Name="WorkShopTSys.sdf" Filter="1" />
-    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>

@@ -8,7 +8,7 @@ Booking_Flight()
 		"Text=Web Tours",
 		LAST);
 	
-	//This is a change for git.
+	
 	
 	web_reg_save_param_ex(
 		"ParamName=UserSession",
